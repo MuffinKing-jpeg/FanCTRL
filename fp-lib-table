@@ -1,0 +1,9 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Muffin_THT") (type "KiCad") (uri "${KIPRJMOD}/KiCAD-Parts/Footprints/Muffin_THT.pretty") (options "") (descr ""))
+	(lib (name "Muffin_SMD") (type "KiCad") (uri "${KIPRJMOD}/KiCAD-Parts/Footprints/Muffin_SMD.pretty") (options "") (descr ""))
+	(lib (name "Connector_Muffin_THT") (type "KiCad") (uri "${KIPRJMOD}/KiCAD-Parts/Footprints/Connector_Muffin_THT.pretty") (options "") (descr ""))
+	(lib (name "him.kicad_blocks") (type "KiCad") (uri "${KIPRJMOD}/KiCAD-Parts/Design_blocks/him.kicad_blocks") (options "") (descr ""))
+	(lib (name "TPS63020.kicad_block") (type "KiCad") (uri "${KIPRJMOD}/KiCAD-Parts/Design_blocks/TPS63020.kicad_block") (options "") (descr ""))
+	(lib (name "BQ24073RGTR.kicad_block") (type "KiCad") (uri "${KIPRJMOD}/KiCAD-Parts/Design_blocks/BQ24073RGTR.kicad_block") (options "") (descr ""))
+)

@@ -1,0 +1,6 @@
+(design_block_lib_table
+	(version 7)
+	(lib (name "shunt_measures") (type "KiCad") (uri "${KIPRJMOD}/KiCAD-Parts/Design_blocks/shunt_measures.kicad_blocks") (options "") (descr ""))
+	(lib (name "motor_control") (type "KiCad") (uri "${KIPRJMOD}/KiCAD-Parts/Design_blocks/motor_control.kicad_blocks") (options "") (descr ""))
+	(lib (name "connectors") (type "KiCad") (uri "${KIPRJMOD}/KiCAD-Parts/Design_blocks/connectors.kicad_blocks") (options "") (descr ""))
+)

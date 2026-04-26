@@ -1,0 +1,17 @@
+*backups
+*.bak
+*.log
+
+\#auto_saved_files#
+_autosave*
+
+*models.txt
+*.lck
+fp-info-cache
+
+PLOTS/**/*
+!PLOTS/Assembly/
+
+*missing3Dmodels.txt
+
+_autosave-*
